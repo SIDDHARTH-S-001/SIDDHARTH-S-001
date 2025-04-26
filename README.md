@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SIDDHARTH-S-001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=https://github.com/SIDDHARTH-S-001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SIDDHARTH-S-001&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
