@@ -15,15 +15,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SIDDHARTH-S-001&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-// Original Code (potential error)
-let slicedData = someData.slice(0, 5);
-
-// Corrected Code with a null check
-if (someData && someData.slice) {
-    let slicedData = someData.slice(0, 5);
-} else {
-    console.log("someData is null or undefined");
-}
-
-
